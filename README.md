@@ -57,15 +57,13 @@ The application capabilities were verified through deployment on Google Cloud Pl
 
 _Features: Autocomplete Search, Artist Biographies, Artworks Carousel, Favorites Management._
 
-https://github.com/user-attachments/assets/8f99e983-a04c-4d2f-8a79-da2a74d18176
+https://github.com/user-attachments/assets/36e7ff1e-a64e-4a03-8da7-6ae61086bfd4
 
 ### **Mobile Application Demo**
 
 _Features: Splash Screen, Native Navigation, Dark Mode Support, "Similar Artists" Recommendations._
 
-https://github.com/user-attachments/assets/f3865a89-07e3-48fc-9d6e-2ec92d4b8b02
-
-
+https://github.com/user-attachments/assets/57946c64-a60a-4a86-a4a3-154d67d2d009
 
 ---
 
