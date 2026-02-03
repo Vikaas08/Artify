@@ -1,14 +1,15 @@
 # Artify: Cross-Platform Art Exploration Ecosystem
 
-![JavaScript](https://img.shields.io/badge/Language-JavaScript-yellow)
-![TypeScript](https://img.shields.io/badge/Language-TypeScript-blue)
-![Kotlin](https://img.shields.io/badge/Language-Kotlin-purple)
-![Java](https://img.shields.io/badge/Language-Java-orange)
-
-![React](https://img.shields.io/badge/Frontend-React-61DAFB)
-![Node.js](https://img.shields.io/badge/Backend-Node.js-339933)
-![Android](https://img.shields.io/badge/Mobile-Android-3DDC84)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
+![MongoDB](https://img.shields.io/badge/Database-MongoDB-47A248?logo=mongodb&logoColor=white)
+![Express.js](https://img.shields.io/badge/Backend-Express.js-000000?logo=express&logoColor=white)
+![React](https://img.shields.io/badge/Frontend-React-61DAFB?logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/Backend-Node.js-339933?logo=nodedotjs&logoColor=white)
+![Android](https://img.shields.io/badge/Mobile-Android-3DDC84?logo=android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Language-Kotlin-7F52FF?logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Language-Java-ED8B00?logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/Language-TypeScript-3178C6?logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/Language-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 
 A comprehensive, full-stack application ecosystem built to explore the Artsy API, featuring a unified backend serving both a responsive web application and a native Android client. Developed as part of the **CSCI 571: Web Technologies** course at the **University of Southern California**.
 
